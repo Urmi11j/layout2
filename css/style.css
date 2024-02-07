@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: rgb(212, 139, 190);
+    color: white;
+    text-align: center;
+}
+.banner{
+    background-color: rgb(177, 7, 120);
+    color:white;
+    text-align: center;
+    height: 500px;
+}
+
+.footer{
+    background-color: rgb(138, 71, 118);
+    color: rgb(33, 0, 85);
+    text-align: center;
+    height: 80px;
+}
+.portfolio{
+    display: flex;
+}
+
+.left_side{
+    width: 50%;
+    height: 400px;
+    background-color: rgb(167, 82, 159);
+}
+.right_side{
+    width: 50%;
+    height: 400px;
+    background-color: rgba(185, 4, 116, 0.521);
+   
+}
+.top{
+    height: 50%;
+    background-color: rgb(204, 148, 236);
+}
+.bottom{
+    height: 50%;
+    border: rgb(146, 82, 143);
+}
